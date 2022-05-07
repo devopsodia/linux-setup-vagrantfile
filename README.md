@@ -18,9 +18,9 @@ Stape-4
 Open Git Bash inside the folder .
 
 Run The bellow Command 
-1. for start
+1. for start: 
 vagrant up
-2. for shortdown
+2. for shortdown: 
 vagrant halt
 
 
